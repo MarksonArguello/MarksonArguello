@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**MarksonArguello/MarksonArguello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
+Meu nome é Markson, tenho 20 anos. Estou no 5º período de Ciência da Computação na Universidade Federal do Rio de Janeiro. Fiz Técnico em Informática no CIE Miécimo da Silva onde eu aprendi a programar. Gosto muito de estudar Programação Web e Programação Competitiva.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens que estudo:
+
+<div style="display: inline_block">
+<img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
+
+##
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarksonArguello&hide=html&layout=compact&theme=buefy" />
+
+## 
+
+<a href = "https://www.linkedin.com/in/marksonarguello/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`"/></a> <a href="mailto:marksonva@dcc.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
