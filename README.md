@@ -1,6 +1,6 @@
 
 ### Hello there 👋
-Meu nome é Markson, tenho 20 anos. Estou no 5º período de Ciência da Computação na Universidade Federal do Rio de Janeiro. Fiz Técnico em Informática no CIE Miécimo da Silva onde eu aprendi a programar. Gosto muito de estudar Programação Web e Programação Competitiva.
+Meu nome é Markson, tenho 20 anos. Estou no 6º período de Ciência da Computação na Universidade Federal do Rio de Janeiro. Fiz Técnico em Informática no CIE Miécimo da Silva onde eu aprendi a programar. Gosto muito de estudar Programação Web e Programação Competitiva.
 
 ##
 
